@@ -1,0 +1,12 @@
+@charset "utf-8";
+.success {
+	text-align: center;
+	font-weight: bold;
+	color: #060;
+}
+
+.error{
+	text-align: center;
+	font-weight: bold;
+	color: #F00;
+}
